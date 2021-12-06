@@ -1,20 +1,6 @@
 {
   "viajes": [
     {
-      "id": 0,
-      "comienzo": "Viña del Mar",
-      "destino": "Playa Ancha",
-      "tarifa": "1200",
-      "startgeo": {
-        "lat": -33.0053654,
-        "lng": -71.6002959
-      },
-      "endgeo": {
-        "lat": -33.0362318,
-        "lng": -71.6519334
-      }
-    },
-    {
       "id": 1,
       "comienzo": "Quilpué",
       "destino": "Placilla",
