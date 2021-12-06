@@ -1,7 +1,7 @@
 {
   "viajes": [
     {
-      "id": 1,
+      "id": 0,
       "comienzo": "Viña del Mar",
       "destino": "Playa Ancha",
       "tarifa": "1200",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 1,
       "comienzo": "Quilpué",
       "destino": "Placilla",
       "tarifa": "22",
@@ -29,7 +29,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 2,
       "comienzo": "Lugar Conductor",
       "destino": "Placilla",
       "tarifa": 1000,
@@ -43,7 +43,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 3,
       "comienzo": "Placilla",
       "destino": "Villa Alemana",
       "tarifa": 1200,
@@ -57,7 +57,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 4,
       "comienzo": "Lugar Conductor",
       "destino": "Playa Ancha",
       "tarifa": 800,
@@ -71,7 +71,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 5,
       "comienzo": "Lugar Conductor",
       "destino": "Playa Ancha",
       "tarifa": 2333,
