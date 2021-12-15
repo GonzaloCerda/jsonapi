@@ -1,74 +1,16 @@
 {
-  "viajes": [
+  "users": [
     {
       "id": 1,
-      "comienzo": "Quilpué",
-      "destino": "Placilla",
-      "tarifa": "22",
-      "startgeo": {
-        "lat": -33.0517266,
-        "lng": -71.478075
-      },
-      "endgeo": {
-        "lat": -33.1254462,
-        "lng": -71.5833151
-      }
+      "usuario": "Gonzalo",
+      "contrasena": "123",
+      "email": "gonzalo.cerda.xd@gmail.com"
     },
     {
       "id": 2,
-      "comienzo": "Lugar Conductor",
-      "destino": "Placilla",
-      "tarifa": 1000,
-      "startgeo": {
-        "lat": -33.033717,
-        "lng": -71.5344018
-      },
-      "endgeo": {
-        "lat": -33.1254462,
-        "lng": -71.5833151
-      }
-    },
-    {
-      "id": 3,
-      "comienzo": "Placilla",
-      "destino": "Villa Alemana",
-      "tarifa": 1200,
-      "startgeo": {
-        "lat": -33.1254462,
-        "lng": -71.5833151
-      },
-      "endgeo": {
-        "lat": -33.0471737,
-        "lng": -71.4004397
-      }
-    },
-    {
-      "id": 4,
-      "comienzo": "Lugar Conductor",
-      "destino": "Playa Ancha",
-      "tarifa": 800,
-      "startgeo": {
-        "lat": -33.1150365,
-        "lng": -71.5798789
-      },
-      "endgeo": {
-        "lat": -33.0362318,
-        "lng": -71.6519334
-      }
-    },
-    {
-      "id": 5,
-      "comienzo": "Lugar Conductor",
-      "destino": "Playa Ancha",
-      "tarifa": 2333,
-      "startgeo": {
-        "lat": -33.1150427,
-        "lng": -71.5798868
-      },
-      "endgeo": {
-        "lat": -33.0362318,
-        "lng": -71.6519334
-      }
+      "usuario": "Ismal",
+      "contrasena": "321",
+      "email": "gonz.cerda@duocuc.cl"
     }
   ],
   "localidades": [
